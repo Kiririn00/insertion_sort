@@ -1,0 +1,23 @@
+{
+  "name": "insertion_sort",
+  "version": "1.0.0",
+  "description": "A array insertion sorting algorithm ",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiririn00/insertion_sort.git"
+  },
+  "keywords": [
+    "array",
+    "sorting"
+  ],
+  "author": "varit assawavetvutt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiririn00/insertion_sort/issues"
+  },
+  "homepage": "https://github.com/Kiririn00/insertion_sort#readme"
+}
