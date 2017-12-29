@@ -8,7 +8,7 @@ $ npm install insertion-sort --save
 ## Usage
 
 ``` javascript
-var sort = require('./index.js'),
+var sort = require('insertion-sort'),
     example_array = [4,1,3,2],
     sorted_array;
 
