@@ -2,7 +2,7 @@
 ## Installation
 
 ``` bash
-$ npm install insertion-sort --save
+$ npm install insertion-sort-v --save
 ```
 
 ## Usage

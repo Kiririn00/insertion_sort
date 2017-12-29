@@ -1,6 +1,6 @@
 {
-  "name": "insertion_sort",
-  "version": "1.0.0",
+  "name": "insertion-sort-v",
+  "version": "1.0.1",
   "description": "A array insertion sorting algorithm ",
   "main": "./lib",
   "scripts": {
