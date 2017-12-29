@@ -13,7 +13,7 @@ var sort = require('insertion-sort'),
 
 sorted_array = sort.asc(<your_array>);
 
-console.log(array);
+console.log(sorted_array);
 ```
 
 ## License
